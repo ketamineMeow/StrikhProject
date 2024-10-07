@@ -1,0 +1,14 @@
+C:\Users\varya\source\repos\MeowSweqlory\bin\Debug\net8.0\MeowSweqlory.exe
+C:\Users\varya\source\repos\MeowSweqlory\bin\Debug\net8.0\MeowSweqlory.deps.json
+C:\Users\varya\source\repos\MeowSweqlory\bin\Debug\net8.0\MeowSweqlory.runtimeconfig.json
+C:\Users\varya\source\repos\MeowSweqlory\bin\Debug\net8.0\MeowSweqlory.dll
+C:\Users\varya\source\repos\MeowSweqlory\bin\Debug\net8.0\MeowSweqlory.pdb
+C:\Users\varya\source\repos\MeowSweqlory\obj\Debug\net8.0\MeowSweqlory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varya\source\repos\MeowSweqlory\obj\Debug\net8.0\MeowSweqlory.AssemblyInfoInputs.cache
+C:\Users\varya\source\repos\MeowSweqlory\obj\Debug\net8.0\MeowSweqlory.AssemblyInfo.cs
+C:\Users\varya\source\repos\MeowSweqlory\obj\Debug\net8.0\MeowSweqlory.csproj.CoreCompileInputs.cache
+C:\Users\varya\source\repos\MeowSweqlory\obj\Debug\net8.0\MeowSweqlory.dll
+C:\Users\varya\source\repos\MeowSweqlory\obj\Debug\net8.0\refint\MeowSweqlory.dll
+C:\Users\varya\source\repos\MeowSweqlory\obj\Debug\net8.0\MeowSweqlory.pdb
+C:\Users\varya\source\repos\MeowSweqlory\obj\Debug\net8.0\MeowSweqlory.genruntimeconfig.cache
+C:\Users\varya\source\repos\MeowSweqlory\obj\Debug\net8.0\ref\MeowSweqlory.dll
